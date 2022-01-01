@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Friedrich Nietzsche",
+        "image": "Friedrich Nietzsche",
+        "mainQuote": "That which does not kill us makes us stronger",
+        "quotes": [
+            "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+            "I'm not upset that you lied to me, I'm upset that from now on I can't believe you. ",
+            "And those who were seen dancing were thought to be insane by those who could not hear the music.",
+            "It is hard enough to remember my opinions, without also remembering my reasons for them!",
+            "There is always some madness in love. But there is also always some reason in madness."
+        ]
+    },
+
+
+    {
+        "name": "Stephen King",
+        "image": "Stephen King",
+        "mainQuote": "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.",
+        "quotes": [
+            "Fiction is the truth inside the lie.",
+            "The devil's voice is sweet to hear.",
+            "Each life makes its own immitation of immortality.",
+            "Every book you pick up has its own lesson or lessons, and quite often the bad books have more to teach than the good ones.",
+            "Only enemies speak the truth; friends and lovers lie endlessly, caught in the web of duty.",
+            "The place where you made your stand never mattered. Only that you were there... and still on your feet."
+        ]
+    },
+
+
+    {
+        "name": "Steve Jobs",
+        "image": "Steve Jobs",
+        "mainQuote": "Innovation distinguishes between a leader and a follower.",
+        "quotes": [
+            "Your time is limited, so don’t waste it living someone else’s life.",
+            "Don’t let the noise of others’ opinions drown out your own inner voice.",
+            "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.",
+            "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.",
+            "Stay hungry. Stay foolish.",
+            "I'm convinced that about half of what separates the successful entrepreneurs from the nonsuccessful ones is pure perseverance.",
+            "You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new."
+        ]
+    },
+
+
+    {
+        "name": "George Bernard Shaw",
+        "image": "George Bernard Shaw",
+        "mainQuote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "quotes": [
+            "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
+            "Make it a rule never to give a child a book you would not read yourself.",
+            "You see things; you say, 'Why?' But I dream things that never were; and I say 'Why not?",
+            "If you want to tell people the truth, make them laugh, otherwise they'll kill you.",
+            "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
+        ]
+    }
+]
